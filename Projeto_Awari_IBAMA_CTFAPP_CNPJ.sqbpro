@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="/Users/macbookair/Desktop/Projeto_Awari_IBAMA_CTFAPP_CNPJ.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="5066"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,20:maincnae_font_energ_2020"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="CO2_2018" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="84"/><column index="2" value="108"/><column index="3" value="107"/><column index="4" value="191"/><column index="5" value="243"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="CO2_2020" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="207"/><column index="2" value="84"/><column index="3" value="150"/><column index="4" value="244"/><column index="5" value="183"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="cnae_epa_2018" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="84"/><column index="2" value="144"/><column index="3" value="188"/><column index="4" value="300"/><column index="5" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="cnae_epa_2020" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="193"/><column index="2" value="150"/><column index="3" value="198"/><column index="4" value="84"/><column index="5" value="300"/><column index="6" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="cnae_font_energ_2018" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="98"/><column index="2" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="cnae_font_energ_2020" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="193"/><column index="2" value="150"/><column index="3" value="198"/><column index="4" value="84"/><column index="5" value="93"/><column index="6" value="109"/><column index="7" value="300"/><column index="8" value="300"/><column index="9" value="300"/><column index="10" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="cnpj_dados_cadastrais_pj" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="117"/><column index="2" value="67"/><column index="3" value="115"/><column index="4" value="49"/><column index="5" value="171"/><column index="6" value="133"/><column index="7" value="300"/><column index="8" value="132"/><column index="9" value="170"/><column index="10" value="184"/><column index="11" value="137"/><column index="12" value="65"/><column index="13" value="112"/><column index="14" value="172"/><column index="15" value="146"/><column index="16" value="70"/><column index="17" value="182"/><column index="18" value="300"/><column index="19" value="57"/><column index="20" value="300"/><column index="21" value="221"/><column index="22" value="63"/><column index="23" value="40"/><column index="24" value="117"/><column index="25" value="194"/><column index="26" value="110"/><column index="27" value="110"/><column index="28" value="85"/><column index="29" value="216"/><column index="30" value="171"/><column index="31" value="159"/><column index="32" value="108"/><column index="33" value="137"/><column index="34" value="175"/><column index="35" value="157"/><column index="36" value="112"/><column index="37" value="123"/><column index="38" value="161"/><column index="39" value="40"/><column index="40" value="87"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="consumo_energ_2018" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="105"/><column index="2" value="108"/><column index="3" value="89"/><column index="4" value="300"/><column index="5" value="275"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="consumo_energ_2020" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="105"/><column index="2" value="108"/><column index="3" value="78"/><column index="4" value="300"/><column index="5" value="275"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="emissao_poluente_atmosferico_2020" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="193"/><column index="2" value="300"/><column index="3" value="150"/><column index="4" value="198"/><column index="5" value="108"/><column index="6" value="300"/><column index="7" value="97"/><column index="8" value="300"/><column index="9" value="67"/><column index="10" value="192"/><column index="11" value="136"/><column index="12" value="115"/><column index="13" value="184"/><column index="14" value="84"/><column index="15" value="109"/><column index="16" value="300"/><column index="17" value="300"/><column index="18" value="300"/><column index="19" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="emissao_poluente_atmosferico_view_completa" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="179"/><column index="2" value="300"/><column index="3" value="144"/><column index="4" value="198"/><column index="5" value="108"/><column index="6" value="300"/><column index="7" value="97"/><column index="8" value="300"/><column index="9" value="67"/><column index="10" value="192"/><column index="11" value="136"/><column index="12" value="115"/><column index="13" value="184"/><column index="14" value="84"/><column index="15" value="109"/><column index="16" value="300"/><column index="17" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="emissoes_poluentes_atmosfericos" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="123"/><column index="2" value="300"/><column index="3" value="111"/><column index="4" value="154"/><column index="5" value="130"/><column index="6" value="300"/><column index="7" value="117"/><column index="8" value="300"/><column index="9" value="40"/><column index="10" value="300"/><column index="11" value="82"/><column index="12" value="141"/><column index="13" value="126"/></column_widths><filter_values><column index="11" value="0,00"/></filter_values><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="fonte_energeticas_2020" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="179"/><column index="2" value="300"/><column index="3" value="144"/><column index="4" value="198"/><column index="5" value="108"/><column index="6" value="300"/><column index="7" value="97"/><column index="8" value="300"/><column index="9" value="67"/><column index="10" value="300"/><column index="11" value="198"/><column index="12" value="101"/><column index="13" value="300"/><column index="14" value="150"/><column index="15" value="150"/><column index="16" value="184"/><column index="17" value="84"/><column index="18" value="109"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="fontes_energeticas" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="164"/><column index="2" value="300"/><column index="3" value="143"/><column index="4" value="40"/><column index="5" value="40"/><column index="6" value="40"/><column index="7" value="40"/><column index="8" value="40"/><column index="9" value="46"/><column index="10" value="193"/><column index="11" value="40"/><column index="12" value="40"/><column index="13" value="40"/><column index="14" value="89"/><column index="15" value="107"/><column index="16" value="166"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="fontes_energeticas_View" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="84"/><column index="2" value="300"/><column index="3" value="126"/><column index="4" value="175"/><column index="5" value="130"/><column index="6" value="300"/><column index="7" value="117"/><column index="8" value="300"/><column index="9" value="84"/><column index="10" value="258"/><column index="11" value="151"/><column index="12" value="121"/><column index="13" value="300"/><column index="14" value="89"/><column index="15" value="107"/><column index="16" value="166"/><column index="17" value="108"/><column index="18" value="70"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="fontes_energeticas_table" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="91"/><column index="2" value="300"/><column index="3" value="144"/><column index="4" value="175"/><column index="5" value="130"/><column index="6" value="300"/><column index="7" value="117"/><column index="8" value="300"/><column index="9" value="40"/><column index="10" value="258"/><column index="11" value="151"/><column index="12" value="121"/><column index="13" value="300"/><column index="14" value="89"/><column index="15" value="107"/><column index="16" value="166"/><column index="17" value="108"/><column index="18" value="70"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="tab_cnae" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="1"/></sort><column_widths><column index="1" value="77"/><column index="2" value="300"/><column index="3" value="84"/><column index="4" value="300"/><column index="5" value="77"/><column index="6" value="300"/><column index="7" value="79"/><column index="8" value="300"/><column index="9" value="70"/><column index="10" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="teste" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="300"/><column index="2" value="109"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="emissoes_poluentes">
+UPDATE emissoes_poluentes_atmosfericos SET cnpj = REPLACE (cnpj, '-' , &quot;&quot;) 
+
+UPDATE emissoes_poluentes_atmosfericos SET cnpj = REPLACE (cnpj, '.' , &quot;&quot;) 
+
+UPDATE emissoes_poluentes_atmosfericos SET cnpj = REPLACE (cnpj, '/' , &quot;&quot;) 
+-- depois de alterar o dado, fiz a alteração do tipo direto na estrutura do banco de dados (TEXT - INT)
+
+
+
+-- retorna quais são os diferentes Poluenteemitido no ano de 2020 
+SELECT DISTINCT Poluenteemitido
+FROM emissoes_poluentes_atmosfericos
+WHERE Ano &gt;= 2020 -- 8 linhas retornadas
+
+
+-- qtde de relatórios enviados no ano de 2020
+SELECT cnpj 
+FROM emissoes_poluentes_atmosfericos
+WHERE Ano = 2020 -- 16323 linhas retornadas
+
+
+-- qtde de empresas diferentes que enviaram relatórios no ano de 2020
+SELECT DISTINCT cnpj 
+FROM emissoes_poluentes_atmosfericos
+WHERE Ano = 2020 -- 9117 linhas retornadas
+
+
+-- qtde de empresas diferentes que enviaram relatórios no ano de 2019
+SELECT DISTINCT cnpj 
+FROM emissoes_poluentes_atmosfericos
+WHERE Ano = 2019 -- 9840 linhas retornadas
+
+
+-- qtde de empresas diferentes que enviaram relatórios no ano de 2018
+SELECT DISTINCT cnpj 
+FROM emissoes_poluentes_atmosfericos
+WHERE Ano = 2018 -- 9708 linhas retornadas
+
+
+-- retorna a qtde_total_relatorios por Poluenteemitido e CategoriadeAtividade para 2020, 2019 e 2018
+SELECT sum (qtde_total_relatorios) as verificacao -- 16323
+FROM
+(
+SELECT Poluenteemitido,
+		CategoriadeAtividade, 
+		count (*) as qtde_total_relatorios
+FROM emissoes_poluentes_atmosfericos
+WHERE Ano = 2020
+GROUP by Poluenteemitido, CategoriadeAtividade	
+ORDER by qtde_total_relatorios DESC -- retorna 92 linhas
+)
+
+
+SELECT sum (qtde_total_relatorios) as verificacao -- 17232
+FROM
+(
+SELECT Poluenteemitido,
+		CategoriadeAtividade, 
+		count (*) as qtde_total_relatorios
+FROM emissoes_poluentes_atmosfericos
+WHERE Ano = 2019
+GROUP by Poluenteemitido, CategoriadeAtividade	
+ORDER by qtde_total_relatorios DESC -- retorna 96 linhas
+)
+
+
+SELECT sum (qtde_total_relatorios) as verificacao -- 16753
+FROM
+(
+SELECT Poluenteemitido,
+		CategoriadeAtividade, 
+		count (*) as qtde_total_relatorios
+FROM emissoes_poluentes_atmosfericos
+WHERE Ano = 2018
+GROUP by Poluenteemitido, CategoriadeAtividade	
+ORDER by qtde_total_relatorios DESC -- retorna 90 linhas
+)
+
+
+SELECT sum (qtde_relatorios_por_empresa) as diferenca_qtde_relatorio_empresas
+FROM
+(
+SELECT cnpj,
+		count (*) as qtde_relatorios_por_empresa
+FROM emissoes_poluentes_atmosfericos
+WHERE ano = 2020 -- ou ano = 2019
+GROUP by cnpj 
+HAVING qtde_relatorios_por_empresa &gt; 1 -- qtde_relatorios_por_empresa = 1 
+ORDER by qtde_relatorios_por_empresa DESC 
+
+-- (&gt;1) retorna 3409 linhas e 10615 relatórios 
+-- (=1) retorna 5708 linhas e relatórios
+-- 3409 + 5708 = 9117 empresas
+-- 10615 + 5708 = 16323 relatórios 
+)
+
+
+-- retorna as diferentes CategoriadeAtividade no ano de 2020
+SELECT DISTINCT CategoriadeAtividade 
+FROM emissoes_poluentes_atmosfericos
+WHERE Ano = 2020 -- 22 linhas retornadas
+
+
+SELECT DISTINCT Metodologiautilizada 
+FROM emissoes_poluentes_atmosfericos
+WHERE Ano = 2020 -- há campo NULL
+
+
+
+
+
+</sql><sql name="fontes_energeticas">UPDATE fontes_energeticas SET cnpj = REPLACE (cnpj, '-' , &quot;&quot;) 
+
+UPDATE fontes_energeticas SET cnpj = REPLACE (cnpj, '.' , &quot;&quot;) 
+
+UPDATE fontes_energeticas SET cnpj = REPLACE (cnpj, '/' , &quot;&quot;) 
+-- depois de alterar o dado, fiz a alteração do tipo direto na estrutura do banco de dados (TEXT - INT)
+
+
+-- Quantidade de empresas que enviaram relatórios no ano de 2020
+SELECT DISTINCT
+cnpj
+from fontes_energeticas
+WHERE Ano = 2020 -- retorna 21907 linhas
+  
+
+
+
+-- total de relatórios enviados no ano de 2020, 2019 e 2018
+SELECT *
+FROM fontes_energeticas
+WHERE ano = 2020 -- (29567)
+
+
+SELECT *
+FROM fontes_energeticas
+Where Ano = 2019 -- (31341)
+
+
+SELECT *
+FROM fontes_energeticas
+Where Ano = 2018 -- (31092) 
+
+
+--retorna as empresas que entregaram 1 relatório ou entregaram mais de 1 relatório 
+-- 16634 (=1) + 12933 (&gt;1) = 29567 relatórios (obs: para (&gt;1) retorna 5273 linhas, isto é, 16634 + 5273 = 21907)
+SELECT sum (qtde_relatorios_por_empresa) as diferenca_qtde_relatorio_empresas
+FROM
+(
+SELECT cnpj,
+		count (*) as qtde_relatorios_por_empresa
+FROM fontes_energeticas
+WHERE ano = 2020 -- ou ano = 2019
+GROUP by cnpj 
+HAVING qtde_relatorios_por_empresa &gt; 1 -- qtde_relatorios_por_empresa = 1 
+ORDER by qtde_relatorios_por_empresa DESC 
+)
+
+
+-- Retorna a qtde de relatórios por Estado no ano de 2020 (subquery para somatório total sem agrup.) 
+SELECT
+	sum (qtde_relatorios_por_Estado) as verificacao_qtde_total_relatorios
+FROM
+(
+SELECT estado,
+	count (*) as qtde_relatorios_por_Estado
+FROM fontes_energeticas
+WHERE ano = 2020
+GROUP by Estado -- 29567 linhas retornadas
+)
+
+
+SELECT 
+	sum(qtde_relatorios_por_Estado) verificacao_qtde_total_relatorios
+FROM
+(
+SELECT estado,
+	count (*) as qtde_relatorios_por_Estado
+FROM fontes_energeticas
+WHERE ano = 2019
+GROUP by Estado -- 31341 linhas retornadas
+)
+
+
+-- Retorna a quantidade de relatórios de empresas por Estado que tiveram registro de EmissõesdeCO2 para o ano de 2020
+SELECT sum (qtde_registros_por_Estado) as soma_total_qtde_relatorios FROM
+(
+SELECT Estado, 
+		CategoriadeAtividade,
+		count (*) as qtde_registros_por_Estado 
+FROM fontes_energeticas
+WHERE EmissõesdeCO2 is NOT NULL
+and EmissõesdeCO2 &lt;&gt; &quot;0,000&quot; 
+AND Ano = &quot;2020&quot; 
+GROUP by Estado, CategoriadeAtividade -- 6601 linhas retornadas
+)
+
+SELECT * FROM fontes_energeticas
+WHERE EmissõesdeCO2 &lt;&gt; &quot;0,000&quot;
+AND ano = 2020 -- 6601 linhas retornadas (query para verificar)
+
+
+SELECT 
+	count (*) as qtde_verificacao
+FROM fontes_energeticas
+WHERE EmissõesdeCO2 is NOT NULL
+AND EmissõesdeCO2 &lt;&gt; &quot;0,000&quot; 
+AND Ano = &quot;2020&quot; 
+
+
+-- retorna a qtde de empresas que tiveram registro de EmissõesdeCO2 para o ano de 2020 
+-- (6601 - 4956 = 1645 relatórios a mais que empresas)
+SELECT DISTINCT cnpj 
+FROM fontes_energeticas
+WHERE EmissõesdeCO2 is NOT NULL
+AND EmissõesdeCO2 &lt;&gt; &quot;0,000&quot; 
+AND Ano = &quot;2020&quot; -- 4956 linhas retornadas 
+
+
+SELECT sum (qtde) as verificacao -- 2903 relatórios das 1258 empresas distintas que tiveram mais de 1 relatório. (3698 + 2903 = 6601 relatórios)
+FROM 
+(
+SELECT DISTINCT cnpj,
+	count (cnpj) as qtde
+FROM fontes_energeticas
+WHERE EmissõesdeCO2 is NOT NULL
+AND EmissõesdeCO2 &lt;&gt; &quot;0,000&quot; 
+AND Ano = &quot;2020&quot; 
+GROUP by cnpj
+HAVING qtde &gt; 1 -- retorna 1258 linhas 
+)
+
+
+SELECT DISTINCT cnpj,
+	count (cnpj) as qtde
+FROM fontes_energeticas
+WHERE EmissõesdeCO2 is NOT NULL
+AND EmissõesdeCO2 &lt;&gt; &quot;0,000&quot; 
+AND Ano = &quot;2020&quot; 
+GROUP by cnpj
+HAVING qtde = 1 -- retorna 3698 linhas  
+
+-- Isto é 1258 + 3698 = 4956 empresas distintas que enviaram relatórios com dados calculados sobre EmissõesdeCO2 
+
+
+
+/*retorna a soma_emissoesCO2 por CategoriadeAtividade e Estado para o ano de 2020 das maiores às menores emissões e
+qtde de registro de EmissõesdeCO2 agrupados por Estado*/ 
+SELECT Estado,
+		CategoriadeAtividade,
+		count (*) as qtde_registros_por_Estado,
+		round (sum (EmissõesdeCO2),3) as soma_emissoesCO2	
+FROM fontes_energeticas 
+WHERE ano = 2020
+AND EmissõesdeCO2 &lt;&gt; &quot;0,000&quot; 
+GROUP by Estado, CategoriadeAtividade
+HAVING soma_emissoesCO2 &lt;&gt; 0.0
+ORDER by 4 DESC 
+
+
+SELECT Estado,
+		CategoriadeAtividade,
+		count (*) qtde_registros_por_Estado,
+		round (sum (EmissõesdeCO2),3) as soma_emissoesCO2	
+FROM fontes_energeticas 
+WHERE ano = 2019
+AND EmissõesdeCO2 &lt;&gt; &quot;0,000&quot; 
+GROUP by Estado, CategoriadeAtividade
+HAVING soma_emissoesCO2 &lt;&gt; 0.0
+ORDER by 4 DESC
+
+
+SELECT Estado,
+		CategoriadeAtividade,
+		count (*) qtde_registros_por_Estado,
+		round (sum (EmissõesdeCO2),3) as soma_emissoesCO2	
+FROM fontes_energeticas 
+WHERE ano = 2018
+AND EmissõesdeCO2 &lt;&gt; &quot;0,000&quot; 
+GROUP by Estado, CategoriadeAtividade
+HAVING soma_emissoesCO2 &lt;&gt; 0.0
+ORDER by 4 DESC
+
+
+--retorna a quantidade de null para coluna QuantidadeConsumida ou EmissõesdeCO2
+SELECT * 
+FROM fontes_energeticas
+WHERE QuantidadeConsumida is NULL -- 0 linhas 
+or EmissõesdeCO2 is NULL -- 4436 linhas retornadas para EmissõesdeCO2 NULL 
+
+
+SELECT *
+FROM fontes_energeticas
+WHERE EmissõesdeCO2 is null 
+and TipodeFonteEnergética NOT like &quot;%Biomassa%&quot;
+AND TipodeFonteEnergética NOT like &quot;%Eletricidade%&quot; /* isto é, os NULL da coluna EmissõesdeCO2 são todos dos TipodeFonteEnergética &quot;Biomassa&quot; e 
+&quot;Eletricidade&quot; que são TipodeFonteEnergética que não se calcula emissão de CO2*/
+
+
+-- retorna os TipodeFonteEnergética que não necessitam emitir valores calculados para EmissõesdeCO2 (OBS: Há valores errados, que não foram calculados pelo sistema)
+-- nesse caso, está errado gás liquefeito de petróleo, gás natural, óleo combustível e óleo diesel
+SELECT TipodeFonteEnergética,
+	QuantidadeConsumida,
+	SituaçãoCadastral,
+	Energia,
+	EmissõesdeCO2,
+	ano
+FROM fontes_energeticas
+WHERE EmissõesdeCO2 = &quot;0,000&quot;
+AND QuantidadeConsumida &lt;&gt; &quot;0,000&quot; 
+AND ano = 2020
+ORDER by TipodeFonteEnergética
+   
+   
+SELECT TipodeFonteEnergética, count(*) as qtde_fonte_energetica
+FROM fontes_energeticas
+WHERE EmissõesdeCO2 = &quot;0,000&quot;
+AND SituaçãoCadastral &lt;&gt; &quot;Encerramento de atividades&quot;
+AND ano = 2020
+AND QuantidadeConsumida &lt;&gt; &quot;0,000&quot;
+GROUP by TipodeFonteEnergética
+
+
+SELECT *,
+		CASE WHEN EmissõesdeCO2 = &quot;0,000&quot; THEN &quot;Valor nao informado&quot;
+		end as coluna_tratada
+FROM fontes_energeticas
+WHERE TipodeFonteEnergética = &quot;Óleo Diesel&quot; 
+AND QuantidadeConsumida &lt;&gt; &quot;0,000&quot;
+AND EmissõesdeCO2 = &quot;0,000&quot;
+AND ano = 2020 -- retorna 4 linhas 
+
+
+SELECT * FROM fontes_energeticas
+WHERE TipodeFonteEnergética = &quot;Óleo Diesel&quot; 
+AND QuantidadeConsumida &lt;&gt; &quot;0,000&quot;
+AND EmissõesdeCO2 = &quot;0,000&quot;
+AND ano = 2019 -- retorna 2 linhas
+
+
+SELECT * FROM fontes_energeticas
+WHERE TipodeFonteEnergética = &quot;Óleo Diesel&quot; 
+AND QuantidadeConsumida &lt;&gt; &quot;0,000&quot;
+AND EmissõesdeCO2 = &quot;0,000&quot;
+AND ano = 2018 -- retorna 9 linhas
+
+
+SELECT TipodeFonteEnergética,
+		soma_emissao_CO2
+FROM
+(
+SELECT TipodeFonteEnergética, 
+		count (*) as qtde_total,
+		sum(EmissõesdeCO2) as soma_emissao_CO2
+FROM fontes_energeticas
+where ano = 2020
+GROUP by TipodeFonteEnergética
+)
+WHERE soma_emissao_CO2 = 0.0
+GROUP by TipodeFonteEnergética -- retorna 16 linhas (isto é, 16 TipodeFonteEnergética que não emitem relatórios de EmissõesdeCO2) 
+
+
+
+SELECT * FROM fontes_energeticas 
+WHERE TipodeFonteEnergética = &quot;Biomassa - Lenha&quot;
+AND EmissõesdeCO2 &lt;&gt; &quot;0,000&quot; -- 0 linhas retornadas
+
+
+SELECT * FROM fontes_energeticas 
+WHERE TipodeFonteEnergética = &quot;Eletricidade - Rede Pública&quot;
+AND EmissõesdeCO2 &lt;&gt; &quot;0,000&quot; -- 0 linhas retornadas
+
+
+SELECT * FROM fontes_energeticas
+WHERE TipodeFonteEnergética = &quot;Biomassa - Bagaço de Cana&quot;
+AND EmissõesdeCO2 &lt;&gt; &quot;0,000&quot; -- 0 linhas retornadas
+
+SELECT * FROM fontes_energeticas
+WHERE TipodeFonteEnergética = &quot;Óleo Diesel&quot;
+AND EmissõesdeCO2 &lt;&gt; &quot;0,000&quot; -- 18318 linhas retornadas
+
+
+----- BIOMASSA E ELETRICIDADE SÃO AS ÚNICAS fontes_energeticas QUE NÃO CALCULAM VALORES DE CO2 (SÃO 16 TIPOS EM 2020)
+-- O RESTO QUE RETORNA QuantidadeConsumida &lt;&gt; 0,000 + EmissõesdeCO2 = 0,000 É PORQUE NÃO FOI CALCULADO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</sql><sql name="cnpj">CREATE UNIQUE INDEX &quot;index_cnpj&quot; ON &quot;cnpj_dados_cadastrais_pj&quot; (
+	&quot;cnpj&quot;
+);
+
+ALTER TABLE cnpj_dados_cadastrais_pj
+RENAME COLUMN cnae_fiscal to cod_cnae
+
+
+CREATE UNIQUE INDEX &quot;index_cnae&quot; ON &quot;tab_cnae&quot; (
+	&quot;cod_cnae&quot;
+);
+
+
+</sql><sql name="manipulacao_fg">/* view criada para agrupar todas as informações da tabela fontes_energeticas,
+porte_empresa e cod_cnae da tabela cnpj_dados_cadastrais_pj
+nm_classe e nm_grupo da tabela tab_cnae*/
+CREATE view fonte_energetics_2020 as
+SELECT a.*,
+		b.porte_empresa,
+		b.cod_cnae,
+		c.nm_secao,
+		c.nm_divisao,
+		c.nm_classe,
+		c.nm_grupo
+FROM fontes_energeticas as a
+INNER JOIN cnpj_dados_cadastrais_pj as b on b.cnpj = a.cnpj
+INNER JOIN tab_cnae as c on b.cod_cnae = c.cod_cnae
+WHERE a.ano = 2020
+)
+
+SELECT * FROM font_energ
+
+
+SELECT DISTINCT nm_classe
+FROM tab_cnae --670
+
+
+
+SELECT DISTINCT nm_grupo
+FROM tab_cnae -- 282
+
+-- Views criadas para o ano de 2018, 2019 e 2020 para retornar o grupo e classe CNAE para os distintos CNPJ
+ CREATE VIEW cnae_font_energ_2020 as
+ SELECT DISTINCT cnpj,
+	Estado,
+	Município,
+	porte_empresa,
+	nm_grupo,
+	nm_classe
+ FROM font_energ
+ WHERE Ano = 2020 
+ 
+ 
+  CREATE VIEW cnae_font_energ_2019 as
+ SELECT DISTINCT cnpj,
+	Estado,
+	Município,
+	porte_empresa,
+	nm_grupo,
+	nm_classe
+ FROM font_energ
+ WHERE Ano = 2019 
+ 
+ 
+ CREATE VIEW cnae_font_energ_2018 as
+ SELECT DISTINCT cnpj,
+	Estado,
+	Município,
+	porte_empresa,
+	nm_grupo,
+	nm_classe
+ FROM font_energ
+ WHERE Ano = 2018 
+ 
+  
+ -- Retorna a qtde de cnpj distintos agrupados por classe CNAE
+ SELECT DISTINCT cnpj,
+	nm_grupo,
+	count (*) 
+FROM cnae_font_energ_2020
+GROUP by nm_classe
+ORDER by 3 DESC
+
+
+CREATE VIEW CO2_2020 as -- View criada com a soma total de emissão de CO2 agrupado por classe CNAE 
+ SELECT a.cnpj,
+		a.porte_empresa,
+		a.EmissõesdeCO2,
+		b.nm_classe,
+		-- sum(EmissõesdeCo2) OVER (PARTITION by b.nm_classe) as soma_total_emissao_por_ativ_cnae
+FROM font_energ as a
+JOIN tab_cnae as b on a.cod_cnae = b.cod_cnae
+WHERE a.Ano = 2020
+ORDER by 5 DESC
+
+
+ CREATE VIEW consumo_energ_2018 as -- View criada com a soma total do consumo de Energia agrupado por classe CNAE 
+ SELECT a.cnpj,
+		a.porte_empresa,
+		a.Energia,
+		b.nm_classe,
+		sum(Energia) OVER (PARTITION by b.nm_classe) as soma_total_consumo_energia_ativ_cnae
+FROM font_energ as a
+JOIN tab_cnae as b on a.cod_cnae = b.cod_cnae
+WHERE a.Ano = 2018
+ORDER by 5 DESC
+
+
+
+/* retorna a qtde de relatórios por porte_empresa agrupado por ano 
+e também a Quantidade total de relatórios por Ano */
+SELECT *,
+	sum (qtde_de_relatorios) OVER (PARTITION by ano) as qtde_total_de_relatorios
+FROM
+(
+SELECT ano,
+		porte_empresa,
+		count (*)  as qtde_de_relatorios
+ FROM font_energ
+ GROUP by porte_empresa, Ano
+ ORDER by porte_empresa, Ano 
+ )
+ 
+
+ /* retorna a qtde de empresas por porte para os de 2018, 2019 e 2020
+ e também faz um somatório total de empresas para cada Ano
+ */
+SELECT *, 
+	sum (qtde_de_empresas_por_porte) OVER (PARTITION by ano) as qtde_total_empresas_por_ano
+FROM 
+(
+ SELECT Estado, 
+		Município,
+		Ano,
+		porte_empresa,
+		count (*)  as qtde_de_empresas_por_porte
+FROM 
+(
+ SELECT DISTINCT cnpj,
+				Estado,
+				Município,
+				Ano,
+				porte_empresa 
+			
+ FROM fontes_energeticas_View
+ WHERE Ano = 2020 
+ or ano = 2019
+ or Ano = 2018 
+ )
+ GROUP by Estado, Município, porte_empresa, Ano
+ )
+ 
+ 
+ 
+
+-------------------------------------------(número errado)----------------------------------------------
+
+SELECT DISTINCT cnpj 
+FROM fontes_energeticas_View
+WHERE ano = 2020 -- 21905 (na tabela original há 21907 registros)
+
+
+SELECT cnpj
+FROM fontes_energeticas_table
+WHERE cnpj NOT in (
+SELECT a.cnpj FROM fontes_energeticas as a
+JOIN fontes_energeticas_table as b on b.cnpj = a.cnpj
+--WHERE a.Ano =2020
+)
+
+
+
+
+</sql><sql name="manipulacao_epa">/* view criada para agrupar todas as informações da tabela emissoes_poluentes_atmosfericos,
+porte_empresa e cod_cnae da tabela cnpj_dados_cadastrais_pj, nm_secao, nm_divisao,
+nm_classe e nm_grupo da tabela tab_cnae*/
+CREATE view emissao_poluente_atmosferico_2020 as
+SELECT a.*,
+		b.porte_empresa,
+		b.cod_cnae,
+		c.nm_secao,
+		c.nm_divisao,
+		c.nm_classe,
+		c.nm_grupo
+FROM emissoes_poluentes_atmosfericos as a
+INNER JOIN cnpj_dados_cadastrais_pj as b on b.cnpj = a.cnpj
+INNER JOIN tab_cnae as c on b.cod_cnae = c.cod_cnae
+WHERE a.ano = 2020
+)
+
+
+SELECT * FROM emissao_poluente_atmosferico_view_completa
+
+
+CREATE VIEW cnae_epa_2020 as
+SELECT DISTINCT cnpj,
+	Estado,
+	Município,
+	porte_empresa,
+	nm_grupo,
+	nm_classe
+ FROM emissao_poluente_atmosferico_view_completa
+ WHERE Ano = 2020 
+ 
+ 
+ 
+ 
+ CREATE VIEW EPA_2020 as -- View criada com a soma total de emissão poluentes atmosferico agrupado por porte, Poluenteemitido, classe CNAE e Metodologiautilizada  
+ SELECT a.porte_empresa,
+		b.nm_classe,
+		a.Poluenteemitido,
+		a.Metodologiautilizada,
+		sum(a.Quantidade) as soma_total_emissao_por_ativ_cnae,
+		count (cnpj) as qtde_relatorios
+FROM emissao_poluente_atmosferico_view_completa as a
+JOIN tab_cnae as b on a.cod_cnae = b.cod_cnae
+WHERE a.Ano = 2020
+GROUP by a.Poluenteemitido, a.Metodologiautilizada, b.nm_classe, a.porte_empresa
+ORDER by 1, 2, 3, 4 DESC
+
+
+
+ </sql><sql name="Novas queries">-- É necessário criar as regiões para ambas as bases de dados.
+-- Especificar mais o código cnae 
+
+
+-- FONTES ENERGÉTICAS: 
+
+CREATE view fonte_energeticas_2020 as
+SELECT a.*,
+		b.porte_empresa,
+		b.cod_cnae
+FROM fontes_energeticas as a
+INNER JOIN cnpj_dados_cadastrais_pj as b on b.cnpj = a.cnpj
+WHERE a.ano = 2020
+)
+
+
+
+CREATE VIEW cnae_font_energ_2020 as
+SELECT DISTINCT a.cnpj,
+	a.Estado,
+	a.Município,
+	a.porte_empresa,
+	b.porte_empresa,
+	b.cod_cnae,
+	c.nm_secao,
+	c.nm_divisao,
+	c.nm_grupo,
+	c.nm_classe
+ FROM fonte_energeticas_2020 as a
+INNER JOIN cnpj_dados_cadastrais_pj as b on b.cnpj = a.cnpj
+INNER JOIN tab_cnae as c on b.cod_cnae = c.cod_cnae
+WHERE Ano = 2020 
+ 
+ 
+
+CREATE view emissao_poluente_atmosferico_2020 as
+SELECT a.*,
+		b.porte_empresa,
+		b.cod_cnae
+FROM emissoes_poluentes_atmosfericos as a
+INNER JOIN cnpj_dados_cadastrais_pj as b on b.cnpj = a.cnpj
+INNER JOIN tab_cnae as c on b.cod_cnae = c.cod_cnae
+WHERE a.ano = 2020
+)
+
+
+CREATE VIEW cnae_epa_2020 as
+SELECT DISTINCT a.cnpj,
+	a.Estado,
+	a.Município,
+	a.porte_empresa,
+	b.porte_empresa,
+	b.cod_cnae,
+	c.nm_secao,
+	c.nm_divisao,
+	c.nm_grupo,
+	c.nm_classe
+FROM emissao_poluente_atmosferico_2020 as a
+INNER JOIN cnpj_dados_cadastrais_pj as b on b.cnpj = a.cnpj
+INNER JOIN tab_cnae as c on b.cod_cnae = c.cod_cnae
+WHERE Ano = 2020 
+
+
+
+
+SELECT a.cnpj, a.RazãoSocial, a.EmissõesdeCO2, b.porte_empresa
+FROM fonte_energeticas_2020 as a
+JOIN cnae_font_energ_2020 as b on b.cnpj = a.cnpj
+WHERE nm_secao = 'INDÚSTRIAS DE TRANSFORMAÇÃO'
+ORDER BY 3 DESC
+
+
+
+
+
+</sql><current_tab id="5"/></tab_sql></sqlb_project>
